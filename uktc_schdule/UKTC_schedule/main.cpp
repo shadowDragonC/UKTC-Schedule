@@ -35,7 +35,7 @@ void Monday(){
         cout << "\n 5.  Български език" << endl;
         cout << "\n 6.  Български език" << endl;
         cout << "\n 7.  Час на класа" << endl;
-
+        cout << "\n" << endl;
 
 
 
@@ -52,6 +52,7 @@ void Tuesday(){
         cout << "\n 5.  Асемблиране на PC" << endl;
         cout << "\n 6.  Математика" << endl;
         cout << "\n 7.  Математика" << endl;
+        cout << "\n" << endl;
 
 }
 
@@ -67,7 +68,7 @@ void Wednesday(){
         cout << "\n 4.  К.Практика" << endl;
         cout << "\n 5.  К.Практика" << endl;
         cout << "\n 6.  К.Практика" << endl;
-
+        cout << "\n" << endl;
 
 
 
@@ -83,7 +84,7 @@ void Thursday(){
         cout << "\n 3.  Периферни у-ва/Упражнение " << endl;
         cout << "\n 4.  Математика" << endl;
         cout << "\n 5.  Математика" << endl;
-
+        cout << "\n" << endl;
 
 }
 
@@ -95,6 +96,7 @@ void Friday(){
         cout << "\n 2.  Запаметяващи у-ва " << endl;
         cout << "\n 3.  Приложнен мрежови софтуер " << endl;
         cout << "\n 4.  Приложнен мрежови софтуер" << endl;
+        cout << "\n" << endl;
 
 }
 
