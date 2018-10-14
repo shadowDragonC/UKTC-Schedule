@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539526511 source:/home/shadowdragon/Documents/uktc_schdule/UKTC_schedule/main.cpp
+	<iostream>
+	<ctime>
+	<cwchar>
+
